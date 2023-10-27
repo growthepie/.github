@@ -1,3 +1,0 @@
-# growthepie
-
-welcome!
