@@ -12,11 +12,11 @@ The `gtp` repository serves as the backbone for the growthepie dashboard, provid
 
 ### Features
 
-- Data pipelines from our L2 nodes to our PostgreSQL database
+- Data pipelines from our L2 nodes, Dune, coingecko, DefiLlama, L2Beat, etc. to our PostgreSQL database
 - Data cleaning and curation
 - Scheduling using Airflow
 
-## gtp_frontend - Frontend Implementation
+## gtp-frontend - Frontend Implementation
 
 The `gtp-frontend` repository contains the frontend code for growthepie dashboard, designed to offer responsive and fast user experience.
 
