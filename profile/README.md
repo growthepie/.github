@@ -8,7 +8,7 @@
 
 ## gtp - Backend Repository
 
-The `gtp` repository serves as the backbone for the growthepie dashboard, providing robust L2 data pipelines and data curation.
+The [`gtp`](https://github.com/growthepie/gtp) repository serves as the backbone for the growthepie dashboard, providing robust L2 data pipelines and data curation.
 
 ### Features
 
@@ -18,9 +18,9 @@ The `gtp` repository serves as the backbone for the growthepie dashboard, provid
 
 ## gtp-frontend - Frontend Implementation
 
-The `gtp-frontend` repository contains the frontend code for growthepie dashboard, designed to offer responsive and fast user experience.
+The [`gtp-frontend`](https://github.com/growthepie/gtp-frontend) repository contains the frontend code for growthepie dashboard, designed to offer responsive and fast user experience.
 
-### Highlights
+### Features
 
 - Dynamic L2 data visualization with a range of user-friendly filtering options, enhancing data exploration and analysis
 - Data categorization and comparison features for clear insights into data trends
@@ -28,9 +28,9 @@ The `gtp-frontend` repository contains the frontend code for growthepie dashboar
 
 ## Wiki - Knowledge Base
 
-Our `wiki` includes curated knowledge aimed to educate users, developers and investors about the L2 space, fostering a transparent ecosystem.
+Our [`wiki`](https://github.com/growthepie/wiki) includes curated knowledge aimed to educate users, developers and investors about the L2 space, fostering a transparent ecosystem.
 
-### Objectives
+### Features
 
 - Educational content on different L2 solutions
 - API documentation
