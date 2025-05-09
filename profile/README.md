@@ -8,7 +8,7 @@
 
 ## gtp - DNA
 
-The [`gtp`](https://github.com/growthepie/gtp-dna) repository contains the core data definitions and mapping files that power [growthepie.xyz](https://www.growthepie.xyz). If you are member of a chains or application team you can change chain metadata here or upload application logos.
+The [`gtp-dna`](https://github.com/growthepie/gtp-dna) repository contains the core data definitions and mapping files that power [growthepie.xyz](https://www.growthepie.xyz). If you are member of a chains or application team you can change chain metadata here or upload application logos.
 
 ## gtp - Backend Repository
 
