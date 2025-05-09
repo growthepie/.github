@@ -6,6 +6,10 @@
   <img src="https://github.com/growthepie/.github/assets/90760534/ca2ca39f-657b-4f79-8550-242b4ee9c4ec" alt="Sublime's custom image"/>
 </p>
 
+## gtp - DNA
+
+The [`gtp`](https://github.com/growthepie/gtp-dna) repository contains the core data definitions and mapping files that power [growthepie.xyz](https://www.growthepie.xyz). If you are member of a chains or application team you can change chain metadata here or upload application logos.
+
 ## gtp - Backend Repository
 
 The [`gtp`](https://github.com/growthepie/gtp) repository serves as the backbone for the growthepie dashboard, providing robust L2 data pipelines and data curation.
