@@ -1,6 +1,6 @@
 # Welcome to growthepie 📏🥧 
 
-[growthepie](https://growthepie.xyz/) aims to enhance transparency and understanding of the Ethereum Lecosystem by providing comprehensive, curated data, analysis and educational resources to users, developers and chain teams.
+[growthepie](https://growthepie.com/) aims to enhance transparency and understanding of the Ethereum Lecosystem by providing comprehensive, curated data, analysis and educational resources to users, developers and chain teams.
 
 <p align="center">
   <img src="https://github.com/growthepie/.github/assets/90760534/ca2ca39f-657b-4f79-8550-242b4ee9c4ec" alt="Sublime's custom image"/>
@@ -8,7 +8,7 @@
 
 ## gtp - DNA
 
-The [`gtp-dna`](https://github.com/growthepie/gtp-dna) repository contains the core data definitions and mapping files that power [growthepie.xyz](https://www.growthepie.xyz). If you are member of a chains or application team you can change chain metadata here or upload application logos.
+The [`gtp-dna`](https://github.com/growthepie/gtp-dna) repository contains the core data definitions and mapping files that power [growthepie.com](https://www.growthepie.com). If you are member of a chains or application team you can change chain metadata here or upload application logos.
 
 ## gtp-backend - Backend Repository
 
