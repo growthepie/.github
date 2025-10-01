@@ -1,6 +1,6 @@
 # Welcome to growthepie 📏🥧 
 
-[growthepie](https://growthepie.com/) aims to enhance transparency and understanding of the Ethereum Lecosystem by providing comprehensive, curated data, analysis and educational resources to users, developers and chain teams.
+[growthepie](https://growthepie.com/) aims to enhance transparency and understanding of the Ethereum ecosystem by providing comprehensive, curated data, analysis and educational resources to users, developers and chain teams.
 
 <p align="center">
   <img src="https://github.com/growthepie/.github/assets/90760534/ca2ca39f-657b-4f79-8550-242b4ee9c4ec" alt="Sublime's custom image"/>
@@ -12,11 +12,11 @@ The [`gtp-dna`](https://github.com/growthepie/gtp-dna) repository contains the c
 
 ## gtp-backend - Backend Repository
 
-The [`gtp-backend`](https://github.com/growthepie/gtp-backend) repository serves as the backbone for the growthepie dashboard, providing robust L2 data pipelines and data curation.
+The [`gtp-backend`](https://github.com/growthepie/gtp-backend) repository serves as the backbone for the growthepie dashboard, providing robust data pipelines and data curation.
 
 ### Features
 
-- Data pipelines from our RPCs, Dune, coingecko, L2Beat to our PostgreSQL database
+- Data pipelines from RPCs and other data sources to our PostgreSQL database
 - Data cleaning and curation
 - Scheduling using Airflow
 
@@ -26,7 +26,7 @@ The [`gtp-frontend`](https://github.com/growthepie/gtp-frontend) repository cont
 
 ### Features
 
-- Dynamic L2 data visualization with a range of user-friendly filtering options, enhancing data exploration and analysis
+- Dynamic data visualization with a range of user-friendly filtering options, enhancing data exploration and analysis
 - Data categorization and comparison features for clear insights into data trends
 - Consistent design philosophy for user-friendly UI
 
@@ -36,7 +36,7 @@ Our [`wiki`](https://github.com/growthepie/wiki) includes curated knowledge aime
 
 ### Features
 
-- Educational content on different L2 solutions
+- Educational content on different scaling solutions
 - API documentation
 - Comprehensive explanations of how we curate our data
 
