@@ -1,10 +1,9 @@
 # Welcome to growthepie 📏🥧 
 
-[growthepie](https://growthepie.com/) aims to enhance transparency and understanding of the Ethereum ecosystem by providing comprehensive, curated data, analysis and educational resources to users, developers and chain teams.
+<img width="392" height="90" alt="growthepie.com logo on white" src="https://github.com/user-attachments/assets/5698192b-5256-4db2-bce0-8a42d9a9ce04" />
 
-<p align="center">
-  <img src="https://github.com/growthepie/.github/assets/90760534/ca2ca39f-657b-4f79-8550-242b4ee9c4ec" alt="Sublime's custom image"/>
-</p>
+
+[growthepie](https://growthepie.com/) aims to enhance transparency and understanding of the Ethereum ecosystem by providing comprehensive, curated data, analysis and educational resources to users, developers and chain teams.
 
 ## gtp - DNA
 
