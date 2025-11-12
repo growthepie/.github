@@ -3,11 +3,11 @@
 <img width="392" height="90" alt="growthepie.com logo on white" src="https://github.com/user-attachments/assets/5698192b-5256-4db2-bce0-8a42d9a9ce04" />
 
 
-[growthepie](https://growthepie.com/) aims to enhance transparency and understanding of the Ethereum ecosystem by providing comprehensive, curated data, analysis and educational resources to users, developers and chain teams.
+[growthepie](https://growthepie.com/) is the open analytics platform for the Ethereum ecosystem. From Mainnet to Layer 2s and onchain applications, we showcase the growth of the ecosystem while also empowering Ethereum builders with open and actionable metrics on usage and adoption.
 
 ## gtp - DNA
 
-The [`gtp-dna`](https://github.com/growthepie/gtp-dna) repository contains the core data definitions and mapping files that power [growthepie.com](https://www.growthepie.com). If you are member of a chains or application team you can change chain metadata here or upload application logos.
+The [`gtp-dna`](https://github.com/growthepie/gtp-dna) repository contains the core data definitions and mapping files that power [growthepie.com](https://www.growthepie.com). If you are a member of a chain or application team, you can change chain metadata here or upload application logos.
 
 ## gtp-backend - Backend Repository
 
@@ -21,7 +21,7 @@ The [`gtp-backend`](https://github.com/growthepie/gtp-backend) repository serves
 
 ## gtp-frontend - Frontend Implementation
 
-The [`gtp-frontend`](https://github.com/growthepie/gtp-frontend) repository contains the frontend code for growthepie dashboard, designed to offer responsive and fast user experience.
+The [`gtp-frontend`](https://github.com/growthepie/gtp-frontend) repository contains the frontend code for growthepie platform, designed to offer a responsive and fast user experience.
 
 ### Features
 
@@ -31,7 +31,7 @@ The [`gtp-frontend`](https://github.com/growthepie/gtp-frontend) repository cont
 
 ## Wiki - Knowledge Base
 
-Our [`wiki`](https://github.com/growthepie/wiki) includes curated knowledge aimed to educate users, developers and investors about the L2 space, fostering a transparent ecosystem.
+Our [`wiki`](https://github.com/growthepie/wiki) includes curated knowledge aimed to educate users, developers, and investors about the L2 space, fostering a transparent ecosystem.
 
 ### Features
 
